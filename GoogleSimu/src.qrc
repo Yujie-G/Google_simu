@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sourc/cloud1.png</file>
+        <file>sourc/d0.png</file>
+        <file>sourc/d1.png</file>
+        <file>sourc/gameover.png</file>
+        <file>sourc/ground2.png</file>
+        <file>sourc/n0.png</file>
+        <file>sourc/n1.png</file>
+        <file>sourc/d000.png</file>
+        <file>sourc/d001.png</file>
+        <file>sourc/scene.png</file>
+        <file>sourc/tree0.png</file>
+        <file>sourc/tree1.png</file>
+        <file>sourc/tree2.png</file>
+        <file>sourc/tree3.png</file>
+        <file>sourc/sun.png</file>
+        <file>sourc/back.png</file>
+        <file>sourc/disconnect.png</file>
+        <file>sourc/fav.png</file>
+        <file>sourc/fav_solid.png</file>
+        <file>sourc/forward.png</file>
+        <file>sourc/refersh.png</file>
+        <file>sourc/home.png</file>
+        <file>sourc/Google_icon.png</file>
+        <file>sourc/search.png</file>
+        <file>sourc/pdf.png</file>
+        <file>sourc/time-history.png</file>
+        <file>sourc/new-tab.png</file>
+        <file>sourc/more.png</file>
+    </qresource>
+</RCC>
